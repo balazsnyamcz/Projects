@@ -1,6 +1,6 @@
 [submodule "pt2020_30236_nyamcz_balazs_assignment_1"]
 	path = pt2020_30236_nyamcz_balazs_assignment_1
-	url = ./
+	url = https://balazsnyamcz@bitbucket.org/balazsnyamcz/pt2020_30236_nyamcz_balazs_assignment_1.git
 [submodule "pt2020_30236_nyamcz_balazs_assignment_2"]
 	path = pt2020_30236_nyamcz_balazs_assignment_2
 	url = ./
